@@ -13,3 +13,6 @@ def hello_there(request, name):
         }
     )
 
+def chart_view(request):
+    return render(request, 'chart.html')
+

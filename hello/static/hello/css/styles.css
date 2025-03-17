@@ -1,15 +1,14 @@
 /* styles.css */
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', sans-serif;
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
-    background-color: lightblue;
     font-family: verdana;
 }
 
 h1 {
-    color: #a81313;
+    color: #97a813;
     text-align: center;
     margin-top: 20px;
 }
